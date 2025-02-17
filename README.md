@@ -1,5 +1,4 @@
-# profit_maker
-
+# Arbitrage Workshop
 **Introduction to Quantitative Finance Workshop**
 
 **Overview**
